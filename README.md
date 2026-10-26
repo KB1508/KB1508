@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KB1508
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Don't)
-- 😄 Pronouns: KB
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: - Nothing
 <!---
 KB1508/KB1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
